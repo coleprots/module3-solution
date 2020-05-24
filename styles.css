@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/********** Base styles **********/
+* {
+  box-sizing: border-box;
+}
+
+.padding{
+	padding: 10px;
+}
+
+.innerpad{
+	padding: 20px;
+}
+
+
+.chicken{
+	background-color: #875C74;
+}
+
+.beef{
+	background-color: #A790A5;
+}
+
+.sushi{
+	background-color: #C5EBC3;
+}
+
+h1{
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+}
